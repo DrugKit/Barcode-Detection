@@ -1,6 +1,6 @@
 ultralytics
 pyzbar
-opencv-python
+opencv-python-headless
 numpy
 streamlit
 Pillow
